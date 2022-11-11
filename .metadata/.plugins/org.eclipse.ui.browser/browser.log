@@ -1,0 +1,18 @@
+
+11월 04, 2022 15:18:05.112 NEW SESSION
+11월 04, 2022 15:18:05.112 [10660:8676:1104/151805.111:ERROR:device_event_log_impl.cc(215)] [15:18:05.110] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+11월 07, 2022 09:25:37.387 NEW SESSION
+11월 07, 2022 09:25:37.387 [11936:11872:1107/092537.386:ERROR:device_event_log_impl.cc(215)] [09:25:37.385] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 07, 2022 12:08:54.690 [11936:1436:1107/120854.688:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for chdant.com failed:
+11월 07, 2022 12:08:54.691 ----- Certificate i=0 (CN=chdant.com) -----
+11월 07, 2022 12:08:54.692 ERROR: Time is after notAfter
+11월 07, 2022 12:08:54.696 
+11월 07, 2022 12:08:54.697 
+11월 07, 2022 15:04:29.415 [14676:7740:1107/150429.415:ERROR:device_event_log_impl.cc(215)] [15:04:29.415] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 07, 2022 17:03:13.167 [1544:12040:1107/170313.167:ERROR:device_event_log_impl.cc(215)] [17:03:13.166] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 07, 2022 17:51:13.985 [12132:8248:1107/175113.984:ERROR:device_event_log_impl.cc(215)] [17:51:13.985] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 07, 2022 18:04:58.690 [9788:11568:1107/180458.690:ERROR:device_event_log_impl.cc(215)] [18:04:58.689] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+11월 08, 2022 09:32:19.152 NEW SESSION
+11월 08, 2022 09:32:19.152 [4512:3624:1108/093219.151:ERROR:device_event_log_impl.cc(215)] [09:32:19.151] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.

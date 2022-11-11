@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\sevenfactory\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+670600066.index
+857273217.index
+2693522252.index
+4233304328.index
+2796890645.index
+332472630.index
+3689115469.index
